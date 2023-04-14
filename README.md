@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gdasson
+- 👋 Hi, I’m Gaurav Dasson
 - 👀 I’m interested in CNCF projects
 - 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on CNCF projects
