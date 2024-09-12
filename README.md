@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaurav Dasson
 - 👀 I’m interested in CNCF projects
-- 🌱 I’m currently working to enhance my GO Skills
+- 🌱 I’m currently working on all things K8s
 - 💞️ I’m looking to collaborate on CNCF projects
 - 📫 How to reach me: gaurav.dasson@gmail.com
 
